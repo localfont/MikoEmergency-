@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base colors -->
+    <color name="bg_dark">#0D1117</color>
+    <color name="bg_card">#161B22</color>
+    <color name="bg_card2">#1C2333</color>
+    <color name="bg_surface">#21262D</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#E6EDF3</color>
+    <color name="text_secondary">#8B949E</color>
+    <color name="text_hint">#484F58</color>
+
+    <!-- Emergency / Action colors -->
+    <color name="sos_red">#DA3633</color>
+    <color name="sos_red_dark">#B22222</color>
+    <color name="accent_red">#FF4444</color>
+    <color name="location_blue">#388BFD</color>
+    <color name="mesh_purple">#A371F7</color>
+
+    <!-- Status colors -->
+    <color name="status_online">#3FB950</color>
+    <color name="status_offline">#DA3633</color>
+    <color name="status_mesh">#A371F7</color>
+    <color name="status_scanning">#D29922</color>
+    <color name="status_inactive">#484F58</color>
+
+    <!-- Network card backgrounds -->
+    <color name="card_internet">#0D2A1A</color>
+    <color name="card_mesh">#1A1030</color>
+    <color name="card_offline">#2A0D0D</color>
+
+    <!-- Message type colors -->
+    <color name="msg_sos">#2A1010</color>
+    <color name="msg_location">#101A2A</color>
+    <color name="msg_default">#161B22</color>
+
+    <!-- Material primary -->
+    <color name="colorPrimary">#DA3633</color>
+    <color name="colorPrimaryDark">#B22222</color>
+    <color name="colorAccent">#A371F7</color>
+
+    <!-- Notification -->
+    <color name="notif_bg">#1C2333</color>
+</resources>

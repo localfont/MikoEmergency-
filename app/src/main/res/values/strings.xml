@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Miko Emergency</string>
+    <string name="app_tagline">İnternetsiz Acil İletişim Ağı</string>
+
+    <!-- Actions -->
+    <string name="sos_send">SOS GÖNDER</string>
+    <string name="location_send">KONUM GÖNDER</string>
+    <string name="message_send">MESAJ GÖNDER</string>
+    <string name="save">KAYDET</string>
+    <string name="back">Geri</string>
+    <string name="settings">Ayarlar</string>
+    <string name="mesh_map">Mesh Harita</string>
+
+    <!-- Status messages -->
+    <string name="status_internet_connected">İnternet: BAĞLI</string>
+    <string name="status_internet_disconnected">İnternet: BAĞLI DEĞİL</string>
+    <string name="status_mesh_active">Mesh: Aktif</string>
+    <string name="status_mesh_scanning">Mesh: Taranıyor…</string>
+    <string name="status_no_nodes">Henüz düğüm bulunamadı. Taranıyor…</string>
+    <string name="status_no_messages">Henüz mesaj alınmadı</string>
+
+    <!-- Labels -->
+    <string name="node_id_label">Node ID</string>
+    <string name="alias_hint">Takma Adınız</string>
+    <string name="sos_message_hint">Varsayılan SOS Mesajı</string>
+    <string name="emergency_contact_hint">Acil İletişim Kişisi Node ID</string>
+
+    <!-- Notifications -->
+    <string name="notif_channel_name">Miko Emergency Mesh</string>
+    <string name="notif_channel_desc">Acil durum mesh ağı servisi</string>
+    <string name="notif_title_active">Mesh ağı aktif</string>
+    <string name="notif_text_active">Acil durum ağına bağlanıldı</string>
+    <string name="notif_incoming_title">🆘 Acil Mesaj Alındı!</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title">Miko Emergency\'e Hoş Geldiniz</string>
+    <string name="onboarding_subtitle">İnternet olmadan mesh ağı üzerinden acil yardım gönderin</string>
+    <string name="btn_grant_permissions">İZİNLERİ VER VE BAŞLA</string>
+    <string name="btn_skip">Atla</string>
+
+    <!-- Info -->
+    <string name="info_mesh_routing">Mesajınız önce internet üzerinden, internet yoksa WiFi Direct → Bluetooth → yerel ağ sırasıyla iletilmeye çalışılır. Her cihaz mesajı komşularına iletir (maks 10 hop).</string>
+</resources>
